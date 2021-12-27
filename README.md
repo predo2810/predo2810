@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @predo2810
 - 👀 I’m interested in uh... some coding? i don't know
-- 🌱 I’m currently learning some vbscript and javascript/html
+- 🌱 I’m currently making fnf mods
 - 💞️ I’m looking to collaborate on (⌐■_■)
 - 📫 How to reach me wait, it's my email here? uh, so, pedromontanari09@gmail.com
 
