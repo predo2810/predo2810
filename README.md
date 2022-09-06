@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @predo2810
-- 👀 I’m interested in uh... some coding? i don't know
-- 🌱 I’m currently making fnf mods
-- 💞️ I’m looking to collaborate on (⌐■_■)
-- 📫 How to reach me wait, it's my email here? uh, so, pedromontanari09@gmail.com
+- 👋 Hi, I’m @EverRak
+- 👀 I’m interested in Unity and C# games
+- 🌱 I’m currently making a game with friends :D
+- 💞️ I’m looking to collaborate on everything :)
+- 📫 How to reach me pedromontanari09@gmail.com
 
 <!---
 predo2810/predo2810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
